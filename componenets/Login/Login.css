@@ -1,0 +1,71 @@
+.main2{
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: url('E:\Web Devolopment\Projects\College-login page\my-react-app\assets\10972.jpg'); /* Replace with your actual background image */
+    /*background-size:cover;*/
+}
+
+.container {
+    max-width: 40%;
+    
+    margin: 40px auto;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 4);
+    background: url('E:\Web Devolopment\Projects\College-login page\my-react-app\assets\pexels-pixabay-235986.jpg');
+    background-size:cover;
+}
+
+
+h1{
+    margin-bottom: 10px;
+    font-size: 2rem;
+    text-align: center;
+    color: white;
+}
+label {
+    color: wheat;
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.form-group {
+    margin-bottom: 20px;
+    font-size: 1rem;
+    text-align: center;
+}
+
+input{
+    
+    border-radius: 20px;
+    width: 50%;
+    font-size: 1rem;
+    padding: 10px 20px;
+}
+
+.form-group>button {
+    margin-top: 10px;
+    background-color: #0492c2;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    width: 50%;
+    font-size: 1rem;
+    font-weight: bold;
+    
+}
+
+.form-group>button:hover {
+    background-color: #1338be;
+}
+
+
+  
+  
+  
